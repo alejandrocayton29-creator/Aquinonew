@@ -41,7 +41,7 @@ namespace ShoppingCartApp
                         break;
                     case "3":
                         running = false;
-                        Console.WriteLine("Exiting system...");
+                        Console.WriteLine("Thanks you and goodbye");
                         break;
                     default:
                         Console.WriteLine("Invalid choice. Try again.");
